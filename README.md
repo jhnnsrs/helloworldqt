@@ -7,7 +7,7 @@ can rely on to build their applications.
 ## Installation
 
 ```bash
-pip install "arkitekt-next[all]>=0.8.7" qtpy pyqt5
+pip install "arkitekt-next[all]>=0.8.8" qtpy pyqt5
 ```
 
 ## Usage
